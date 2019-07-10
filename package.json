@@ -1,0 +1,12 @@
+{
+  "name": "jscut",
+  "version": "0.0.1",
+  "description": "A fork of the amazing https://github.com/tbfleming/jscut",
+  "authors": [
+    "Todd Fleming",
+    "Fredrik Söderström"
+  ],
+  "license": "GPL3",
+  "homepage": "https://github.com/tirithen/jscut",
+  "repository": "github:tirithen/jscut"
+}
